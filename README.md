@@ -16,7 +16,7 @@ To run the Tic-Tac-Toe game, follow these steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone <[repository-url](https://github.com/OlubodeMichael/Tic-Tac-Toe)>
+git clone <(https://github.com/OlubodeMichael/Tic-Tac-Toe)>
 ```
 
 2. Compile the code using a C++ compiler (e.g., g++):
